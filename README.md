@@ -13,7 +13,7 @@ Functions that we implemented are:
 - forkbomb
 - color of the shell,...
 
-We encountered many challenges through our way, most of them Operating Sysrems as a course is something completely new to us making it hard for us to understand some errors. We used mostly our collegues as a soruce of information but also course materials and internet. 
+We encountered many challenges throughout our way, most of them being encountering something completely new to us, making it hard for us to understand some errors. We used mostly our collegues as a soruce of information but also course materials and internet. We hope that the first part of our project is okay since we tried really really hard and been working since last minute.
 
 
 TASK 5
