@@ -13,7 +13,11 @@ Functions that we implemented are:
 - forkbomb
 - color of the shell,...
 
+CHALLENGES THAT WE HAVE ENCOUNTERED:
 We encountered many challenges throughout our way, most of them being encountering something completely new to us, making it hard for us to understand some errors. We used mostly our collegues as a soruce of information but also course materials and internet. We hope that the first part of our project is okay since we tried really really hard and been working since last minute.
+
+INSTRUCTIONS FOR COMPILING YOUR PROGRAM/SCRIPTS
+After extracting the project folder, users, if they want to modify the shell, tasks can run the tasks, they must first compile them using the command 'gcc -o <NAME> <FILE NAME>.c -Wall', and then run them normally using './<ENTERED NAME>'.
 
 
 TASK 5
