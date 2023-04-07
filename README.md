@@ -14,14 +14,17 @@ Functions that we implemented are:
 - color of the shell,...
 
 CHALLENGES THAT WE HAVE ENCOUNTERED:
-We encountered many challenges throughout our way, most of them being encountering something completely new to us, making it hard for us to understand some errors. We used mostly our collegues as a soruce of information but also course materials and internet. We hope that the first part of our project is okay since we tried really really hard and been working since last minute.
+We encountered many challenges throughout our way, most of them being encountering something completely new to us, making it hard for us to understand some errors.
+
+SOURCES/TUTORIALS:
+We used mostly our collegues as a source of information but also course materials, internet and ChatGPT. We hope that the first part of our project is okay since we tried really really hard and been working since last minute.
 
 INSTRUCTIONS FOR COMPILING YOUR PROGRAM/SCRIPTS:
 After extracting the project folder, users, if they want to modify the shell, tasks can run the tasks, they must first compile them using the command 'gcc -o <NAME> <FILE NAME>.c -Wall', and then run them normally using './<ENTERED NAME>'.
 
 
 TASK 5
-Q1 
+Q1 :
 a) To read from disk, a program typically needs to request the operating system to 
 perform the necessary disk I/O operations on its behalf by issuing a system call. These 
 operations require privileged access to hardware and system resources that are only 
@@ -35,7 +38,7 @@ available in kernel mode. Therefore, the operating system must switch to kernel 
 to safely and efficiently the time from the hardware clock and then return control 
 back to the user mode program with the current time.
 
-Q2 
+Q2 :
 A system call is a mechanism provided by the operating system that allows user mode 
 programs to request services and resources from the kernel. Its main purpose is to enable 
 user mode programs to access privileged operations and system resources that are not 
