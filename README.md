@@ -2,7 +2,18 @@
 Team members: Amila Abdulović, Anđela Jeftović
 
 Our project consists of several parts, 5 tasks.
-Most are called tasWe encountered many challenges through our way, most of them being something completely new to us making it hard for us to understand some errors. 
+Functions that we implemented are:
+- cp
+- history
+- free
+- fortune
+- grep
+- mkdir
+- uptime
+- forkbomb
+- color of the shell,...
+
+We encountered many challenges through our way, most of them Operating Sysrems as a course is something completely new to us making it hard for us to understand some errors. We used mostly our collegues as a soruce of information but also course materials and internet. 
 
 
 TASK 5
