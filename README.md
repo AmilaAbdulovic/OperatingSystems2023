@@ -1,4 +1,10 @@
 # OperatingSystems2023
+Team members: Amila Abdulović, Anđela Jeftović
+
+Our project consists of several parts, 5 tasks.
+Most are called tasWe encountered many challenges through our way, most of them being something completely new to us making it hard for us to understand some errors. 
+
+
 TASK 5
 Q1 
 a) To read from disk, a program typically needs to request the operating system to 
