@@ -13,7 +13,7 @@ int main(int argc, char *argv[]) {
     FILE *fp;
     char fortune[MAX_FORTUNE_LEN];
     
-    // Load fortunes from file
+ 
     fp = fopen("/usr/share/games/fortunes/fortunes.dat", "r");
     if (fp == NULL) {
         fprintf(stderr, "Failed to open fortune file\n");
@@ -22,8 +22,16 @@ int main(int argc, char *argv[]) {
     
     while (fgets(fortune, MAX_FORTUNE_LEN, fp) != NULL) {
         if (fortune[0] == '%' && fortune[1] == '\n') {
-            // Add fortune to array
+          
             strncpy(fortunes[num_fortunes], fortune+2, MAX_FORTUNE_LEN);
+            num_fortunes++;
         }
     }
+  fclose(fp);
+    
+    for (int i = 0; i < num_fortunes; i++) {
+        printf("%s\n", fortunes[i]);
+    }
+    
+    return 0;
 }
